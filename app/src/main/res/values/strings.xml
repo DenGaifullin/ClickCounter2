@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Click counter</string>
+    <string name="count_of_click_string">Count of clicks %2d</string>
+    <string name="init_string">Count of clicks 0</string>
+</resources>
